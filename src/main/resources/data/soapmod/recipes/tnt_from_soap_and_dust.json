@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#*#",
+    "*#*",
+    "#*#"
+  ],
+  "key": {
+    "#": {
+      "item": "soapmod:tasty_soap"
+    },
+    "*": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "minecraft:tnt"
+  }
+}

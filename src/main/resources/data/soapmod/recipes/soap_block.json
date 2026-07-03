@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "soapmod:tasty_soap"
+    }
+  },
+  "result": {
+    "item": "soapmod:soap_block"
+  }
+}
